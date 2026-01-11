@@ -32,3 +32,6 @@ Automatically add missing character types
 Randomly insert required characters
 Extend the password length if needed
 The updated password is then displayed.
+
+
+© 2026 aprajitaco615 All Rights Reserved
