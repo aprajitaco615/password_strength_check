@@ -6,9 +6,9 @@ The program can also optionally modify the password to meet the selected require
 This project is currently Version 1 (v1) and is being actively improved.
 
 
-##What the program does:
+## What the program does:
 Features (v1)
-###--Standard Mode
+### --Standard Mode
 Checks the password against default conditions:
 Minimum length: 8 characters
 At least 1 uppercase letter
@@ -16,7 +16,7 @@ At least 1 lowercase letter
 At least 1 number
 At least 1 special character
 
-###--Custom Mode
+### --Custom Mode
 Allows the user to define:
 Minimum password length
 Minimum number of uppercase letters
@@ -26,7 +26,7 @@ Minimum number of special characters
 
 --If the total of the selected requirements exceeds the minimum length, the program automatically adjusts the minimum length so all conditions can be satisfied.
 
-###--Automatic Fix Option
+### --Automatic Fix Option
 If the password does not meet the chosen conditions, the user can opt to:
 Automatically add missing character types
 Randomly insert required characters
